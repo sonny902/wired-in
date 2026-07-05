@@ -1,5 +1,9 @@
 # Wired In ⚡
 
+A productivity app designed around one simple idea:
+
+Never leave a gap between tasks.
+
 Zero gap focus. Two modes. No overlap.
 
 ## Deploy in 5 minutes
